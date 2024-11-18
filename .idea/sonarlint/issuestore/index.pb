@@ -24,3 +24,5 @@ P
  src/components/SearchResults.jsx,6/0/60cf8ee3a3a217fbc9451deb27d6723d449e4779
 B
 src/pages/Home.jsx,4/3/430200dcc19df010a7afe234d14af8f3c4a0b33b
+L
+src/utils/commonFunctions.js,4/6/464225fc3f4062e376d3c266a432a23774303a0b
